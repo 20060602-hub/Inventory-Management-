@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 Feel free to submit pull requests and issues to improve this project!
 
 ## Contact
-For inquiries, reach out to [Your Email] or [GitHub Profile].
+For inquiries, reach out to [20060602@mydbs.ie] or [https://github.com/20060602-hub/Inventory-Management-].
