@@ -281,8 +281,30 @@ This system was developed and tested using the following tools and platform conf
 
 This project is built using Django with a modular MVC architecture. Below is an overview of the coding structure and settings configuration used in the Sales and Inventory Management System.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/311f185f-8111-4cd0-9eb2-211136cb87f0" />
+Home page 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/8c985ce6-f5d7-4cc9-8ffe-c35fdd4a9bd8" />
+System Admin Page
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/d61de2d7-7518-406e-96b9-75caacffcf5f" />
+DashBoard
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/de8a25d3-9543-4eb6-8911-0c78fb1f59e8" />
+Product details
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9da8102d-5049-432d-8a18-52efb1d0daf8" />
+Sales Page
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7db467f6-304f-4360-9568-24ba49a7e17c" />
+Shopping Cart 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d3a7fb4a-4d37-4e0e-b677-c6731a3ebeb2" />
+Customer Information
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/80ab5554-372c-4eb7-a988-5f147f361bfb" />
+Order details and payments
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/6c255ce5-d202-4a33-b0cd-e688bef0b67f" />
 
-
+Print Receipt
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/98135ff5-0cd8-4e7e-a6b3-1234b51157bb" />
+Inventory Report
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/571c6c3a-74fd-4ef3-8786-cda7b2ca5977" />
+Order Report
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/459b7b7b-98f4-4e85-857a-25a673c1a488" />
+Order Recepits and details
 
 ### 📂 Views Example (`views.py`)
 ```python
