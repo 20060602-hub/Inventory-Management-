@@ -401,6 +401,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## ✉️ Contact
 
-**Maintainer**: Your Name  
-**Email**: yourname@example.com  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+**Maintainer**:  Vengalarao Danthuluri
+**Email**: 20060602@mydbs.ie  
+**GitHub**: [https://github.com/20060602-hub/Inventory-Management-]
+
