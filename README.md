@@ -420,7 +420,7 @@ This project uses open-source tools and tutorials:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the Vengalarao Danthuluri
 
 ---
 
