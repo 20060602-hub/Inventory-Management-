@@ -280,6 +280,9 @@ This system was developed and tested using the following tools and platform conf
 ## 💻 Code Snippets & Configuration
 
 This project is built using Django with a modular MVC architecture. Below is an overview of the coding structure and settings configuration used in the Sales and Inventory Management System.
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/311f185f-8111-4cd0-9eb2-211136cb87f0" />
+
+
 
 ### 📂 Views Example (`views.py`)
 ```python
