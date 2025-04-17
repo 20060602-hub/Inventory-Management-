@@ -1,38 +1,38 @@
 
-# 🧾 Sales and Inventory Management System
+#  Sales and Inventory Management System
 
 A comprehensive **Django-based web application** that automates inventory, sales, product, vendor, and user management. This system helps businesses improve efficiency, track data accurately, and reduce manual overhead through a centralized digital solution.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Business Requirements & Functionalities](#business-requirements--functionalities)
 - [Tech Stack](#tech-stack)
 - [Installation Instructions](#installation-instructions)
-- [📘 Introduction](#-introduction)
-- [🎯 Abstract](#-abstract)
-- [🧭 Objective](#-objective)
-- [💡 Functionalities](#-functionalities)
-- [🔭 Scope](#-scope)
-- [📊 Reports](#-reports)
-- [📦 Modules](#-modules)
-- [✨ Features](#-features)
-- [🛠️ Tools, Platform & System Requirements](#️-tools-platform--system-requirements)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🧰 Installation Instructions](#-installation-instructions)
-- [🧪 Usage Guide](#-usage-guide)
-- [🖼️ Screenshots](#-screenshots)
-- [💻 Code Snippets & Configuration](#-code-snippets--configuration)
-- [📚 References & Bibliography](#-references--bibliography)
-- [☁️ Deployment](#-deployment)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [🧾 Attributions](#-attributions)
-- [📄 License](#-license)
+- [ Introduction](#-introduction)
+- [ Abstract](#-abstract)
+- [ Objective](#-objective)
+- [ Functionalities](#-functionalities)
+- [ Scope](#-scope)
+- [ Reports](#-reports)
+- [ Modules](#-modules)
+- [ Features](#-features)
+- [ Tools, Platform & System Requirements](#️-tools-platform--system-requirements)
+- [ Tech Stack](#️-tech-stack)
+- [ Installation Instructions](#-installation-instructions)
+- [ Usage Guide](#-usage-guide)
+- [ Screenshots](#-screenshots)
+- [ Code Snippets & Configuration](#-code-snippets--configuration)
+- [ References & Bibliography](#-references--bibliography)
+- [ Deployment](#-deployment)
+- [ Future Enhancements](#-future-enhancements)
+- [ Attributions](#-attributions)
+- [ License](#-license)
 - [Contact](#-contact)
 
-## 📖 Project Overview
+##  Project Overview
 
 The **Sales and Inventory Management System** aims to streamline operations by replacing error-prone manual processes with a robust web platform. Designed for use by admins and staff, it enables seamless tracking and reporting of inventory, vendors, orders, costs, and deliveries.
 
@@ -40,46 +40,46 @@ Built with Django and MySQL, it offers modular architecture, secure authenticati
 
 ---
 
-## ✅ Business Requirements & Functionalities
+##  Business Requirements & Functionalities
 
-### 🔒 Authentication & User Management
+###  Authentication & User Management
 - Admin login, logout, registration
 - Role-based access (Admin, Manager, Staff)
 - Profile update, password change, session handling
 
-### 📦 Inventory Management
+###  Inventory Management
 - CRUD operations on inventory
 - Live stock quantity updates
 - Inventory alerts on low quantity
 
-### 📑 Product and Cost Tracking
+###  Product and Cost Tracking
 - Product management with dynamic pricing
 - Cost tracking per vendor
 - Product categorization
 
-### 🧾 Order and Delivery Management
+###  Order and Delivery Management
 - Order creation, update, status tracking
 - Delivery status and historical records
 - Export options: PDF, CSV, Excel
 
-### 🧍 Vendor Management
+###  Vendor Management
 - Vendor registration and management
 - Vendor-product-cost linkage
 - Vendor contact and rating system (future)
 
-### 📊 Reporting & Export
+###  Reporting & Export
 - Reports: Inventory, Vendor, Orders, Costs
 - Export in multiple formats
 - Visual reports (future scope)
 
-### 🛡️ Data Integrity and Validation
+###  Data Integrity and Validation
 - Robust form validations
 - Input sanitization and CSRF protection
 - Error messaging and redirection handling
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer           | Technology                |
 |----------------|---------------------------|
@@ -91,14 +91,14 @@ Built with Django and MySQL, it offers modular architecture, secure authenticati
 
 ---
 
-## 🧰 Installation Instructions
+##  Installation Instructions
 
-### 🖥 Prerequisites
+###  Prerequisites
 - Python 3.x installed
 - MySQL Server running
 - Git and pip installed
 
-### ⚙️ Setup Steps
+###  Setup Steps
 
 ```bash
 # Clone the repository
@@ -129,7 +129,7 @@ python manage.py runserver
 
 ---
 
-## 🧪 Usage Guide
+##  Usage Guide
 - Login via `/login`
 - Use the dashboard to access Inventory, Vendors, Orders
 - Use the export options to download data
@@ -143,7 +143,7 @@ python manage.py runserver
 
 
 
-## 📘 Introduction
+##  Introduction
 
 The "Sales and Inventory Management System" has been developed to override the problems prevailing in the practicing manual system. It reduces errors in data entry, ensures smooth company operations, and is user-friendly even for non-technical users. This system is aimed at improving operational efficiency and reducing overhead by offering centralized, fast, and secure management tools.
 
@@ -151,13 +151,13 @@ This application supports executives with remote access, enabling workforce and 
 
 ---
 
-## 🎯 Abstract
+##  Abstract
 
 The purpose of this system is to automate existing manual processes using computer software and hardware. This ensures long-term data storage with easy access and manipulation, increased reliability, reduced redundancy, and optimal resource use.
 
 ---
 
-## 🧭 Objective
+##  Objective
 
 To manage and streamline the details of:
 - Inventory
@@ -171,17 +171,17 @@ The application centralizes all data under the administrator role and minimizes 
 
 ---
 
-## 💡 Functionalities
+##  Functionalities
 
-- 🔍 Search based on Inventory, Product, Cost, and Orders
-- 📦 Track and manage Delivery details online
-- 🧾 Vendor and Cost detail management
-- 📄 Update, edit, and manage Inventory records
-- 📑 Full integration of Order and Cost modules
+-  Search based on Inventory, Product, Cost, and Orders
+-  Track and manage Delivery details online
+-  Vendor and Cost detail management
+-  Update, edit, and manage Inventory records
+-  Full integration of Order and Cost modules
 
 ---
 
-## 🔭 Scope
+##  Scope
 
 This project aims to automate business processes, provide quick access to historical and current data, and generate documentation and forms at scale. It assists in:
 
@@ -193,18 +193,18 @@ This project aims to automate business processes, provide quick access to histor
 
 ---
 
-## 📊 Reports
+##  Reports
 
-- 📄 Generates reports for Inventory, Vendor, and Delivery
-- 🔍 Filterable reports for Product, Cost, and Order
-- 🧾 Export options:
+-  Generates reports for Inventory, Vendor, and Delivery
+-  Filterable reports for Product, Cost, and Order
+-  Export options:
   - PDF: Inventory, Delivery, Cost
   - Excel: Vendor, Product, Order
   - CSV: Inventory, Vendor, Order
 
 ---
 
-## 📦 Modules
+##  Modules
 
 - **Inventory Management** – Tracks all inventory items and updates
 - **Order Management** – Creates and updates customer order info
@@ -218,40 +218,40 @@ This project aims to automate business processes, provide quick access to histor
 
 ---
 
-## ✨ Features
+##  Features
 
 The Sales and Inventory Management System offers a comprehensive feature set to simplify and streamline organizational processes:
 
-- 🧱 **Product and Component based design**
-- 🔁 **Create and modify issues easily** with clear tracking
-- 📋 **Query issue list with deep filtering**
-- 📊 **Advanced reporting and charting** for better insights
-- 👤 **User accounts** to manage access levels and enhance security
-- ✅ **Simple status and resolution tracking**
-- 🎯 **Multi-level priority and severity support**
-- 🗓️ **Targets and milestones** to guide progress and team productivity
-- 📎 **Attachments and comments** for context-rich records
-- 💾 **Robust database back-end** for reliable data handling
-- 🧮 **Filterable, multi-level reports** with numerous criteria
-- 💽 **Improved storage capacity** for data and logs
-- 🎯 **High accuracy in data handling**
-- ⚡ **Fast and easy data retrieval**
-- 📄 **Professionally designed reports**
-- 📉 **Reduces workload** in manual tracking
-- 🔎 **Instant access** to any information
-- 🚀 **Speeds up operations** and workflow
-- 🔄 **Easy updating** of existing records
+-  **Product and Component based design**
+-  **Create and modify issues easily** with clear tracking
+-  **Query issue list with deep filtering**
+-  **Advanced reporting and charting** for better insights
+-  **User accounts** to manage access levels and enhance security
+-  **Simple status and resolution tracking**
+-  **Multi-level priority and severity support**
+-  **Targets and milestones** to guide progress and team productivity
+-  **Attachments and comments** for context-rich records
+-  **Robust database back-end** for reliable data handling
+-  **Filterable, multi-level reports** with numerous criteria
+-  **Improved storage capacity** for data and logs
+-  **High accuracy in data handling**
+-  **Fast and easy data retrieval**
+-  **Professionally designed reports**
+-  **Reduces workload** in manual tracking
+-  **Instant access** to any information
+-  **Speeds up operations** and workflow
+-  **Easy updating** of existing records
 
 ---
 
 
 ---
 
-## 🛠️ Tools, Platform & System Requirements
+##  Tools, Platform & System Requirements
 
 This system was developed and tested using the following tools and platform configurations:
 
-### 💻 Software Requirements
+###  Software Requirements
 
 | Component                | Specification                                 |
 |--------------------------|-----------------------------------------------|
@@ -262,7 +262,7 @@ This system was developed and tested using the following tools and platform conf
 | Web Framework            | Django                                        |
 | Software Development Kit| Visual Studio                                 |
 
-### 🖥️ Hardware Requirements
+###  Hardware Requirements
 
 | Component     | Specification         |
 |---------------|------------------------|
@@ -277,7 +277,7 @@ This system was developed and tested using the following tools and platform conf
 
 ---
 
-## 💻 Code Snippets & Configuration
+##  Code Snippets & Configuration
 
 This project is built using Django with a modular MVC architecture. Below is an overview of the coding structure and settings configuration used in the Sales and Inventory Management System.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/311f185f-8111-4cd0-9eb2-211136cb87f0" />
@@ -306,7 +306,7 @@ Order Report
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/459b7b7b-98f4-4e85-857a-25a673c1a488" />
 Order Recepits and details
 
-### 📂 Views Example (`views.py`)
+###  Views Example (`views.py`)
 ```python
 def listing(request):
     cursor = connection.cursor()
@@ -316,7 +316,7 @@ def listing(request):
     return render(request, 'company-details.html', context)
 ```
 
-### 🌐 URL Routing (`urls.py`)
+###  URL Routing (`urls.py`)
 ```python
 urlpatterns = [
     url(r'^$', views.listing, name="company-listing"),
@@ -350,14 +350,14 @@ STATIC_URL = '/assets/'
 MEDIA_URL = '/uploads/'
 ```
 
-> ⚠️ **Note:** These are code excerpts. For the full source code, see the project repository files.
+>  **Note:** These are code excerpts. For the full source code, see the project repository files.
 
 ---
 
 
 ---
 
-## 📚 References & Bibliography
+##  References & Bibliography
 
 The development of the Sales and Inventory Management System was supported by various online resources and learning materials:
 
@@ -377,7 +377,7 @@ The development of the Sales and Inventory Management System was supported by va
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 Deployment can be done on:
 - Heroku
@@ -393,7 +393,7 @@ Make sure to:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Email/SMS alerts for low stock
 - REST API with DRF for mobile integration
@@ -404,7 +404,7 @@ Make sure to:
 
 ---
 
-## 🧾 Attributions
+##  Attributions
 
 This project uses open-source tools and tutorials:
 
@@ -418,13 +418,13 @@ This project uses open-source tools and tutorials:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the Vengalarao Danthuluri
 
 ---
 
-## ✉️ Contact
+##  Contact
 
 **Maintainer**:  Vengalarao Danthuluri
 **Email**: 20060602@mydbs.ie  
