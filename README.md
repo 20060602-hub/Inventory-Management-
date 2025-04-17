@@ -30,7 +30,7 @@ A comprehensive **Django-based web application** that automates inventory, sales
 - [🔮 Future Enhancements](#-future-enhancements)
 - [🧾 Attributions](#-attributions)
 - [📄 License](#-license)
-- [✉️ Contact](#-contact)
+- [Contact](#-contact)
 
 ## 📖 Project Overview
 
